@@ -1,4 +1,4 @@
-# APP NAME
+# Sustainable Health
 
 ## 💡 Inspiration
 
@@ -6,7 +6,7 @@ Around $280 billion were spent on mental health services in 2020, but still many
 
 ## 💻 What it does
 
-Our web app "APP NAME" is built with the following features:
+Our web app "Sustainable Health" is built with the following features:
 - Listen to music to calm your mind.
 - For every donation get a chance to plant tree.
 - Donate to NGO for helping people with mental illness.
@@ -44,7 +44,7 @@ We are using Cohere NLP to detect the user's mood and suggest music accordingly.
 - We learned how to use Cohere.
 - We learned how to implement the payment gateway.
 
-## 🚀 What's next for APP NAME
+## 🚀 What's next for Sustainable Health
 
 - Building a mobile app.
 - Adding coupons and discounts for the users who donate.

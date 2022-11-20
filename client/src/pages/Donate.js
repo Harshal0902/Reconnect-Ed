@@ -34,7 +34,7 @@ export default function Donate() {
             key: "RAZORPAY_TEST_KEY",
             currency: "INR",
             amount: amount * 100,
-            name: "APP NAME",
+            name: "Sustainable Health",
             description: "Thanks for purchasing",
 
             handler: function (response) {
@@ -42,7 +42,7 @@ export default function Donate() {
                 alert("Payment Successfully");
             },
             prefill: {
-                name: "APP NAME",
+                name: "Sustainable Health",
             },
         };
 
