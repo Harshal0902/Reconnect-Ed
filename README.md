@@ -2,15 +2,15 @@
 
 ## 💡 Inspiration
 
-Around $280 billion were spent on mental health services in 2020, but still many people were unable to get proper care due to lack of funds. Sustainable mental health care works to: Prevent mental illness, develop social capital, and foster mental wellbeing and individual, societal, and community resilience. Encourage the management of mental health by patients, employees, and caregivers. Cut back on needless activity.
+Around $280 billion were spent on mental health services in 2020, but still many people were unable to get proper care due to lack of funds. Sustainable mental health care works to: Prevent mental illness, develop social capital, and foster mental well-being and individual, societal, and community resilience. Encourage the management of mental health by patients, employees, and caregivers. Cut back on needless activity.
 
 ## 💻 What it does
 
 Our web app "Sustainable Health" is built with the following features:
 - Listen to music to calm your mind.
-- For every donation get a chance to plant tree.
-- Donate to NGO for helping people with mental illness.
-- Help people suffering from Mental Health and save planet.
+- For every donation get a chance to plant a tree.
+- Donate to NGOs for helping people with mental illness.
+- Help people suffering from Mental Health and save the planet.
 
 ## ⚙️ How we built it
 
@@ -21,7 +21,7 @@ Our web app "Sustainable Health" is built with the following features:
 
 ## 🌱 Best Sustainability Hack sponsored by Avanade
 
-The third Sustainabile Developemt Goal focuses on good health and well-being and aims to ensure healthy lives and promote well-being for all at all ages. Throug this web application user can listen to some music to calm their mind and also donate to NGO for helping people with mental illness. For every donation we will also plant a tree to save our planet. The application is very helpful for the environment.
+The third Sustainable Development Goal focuses on good health and well-being and aims to ensure healthy lives and promote well-being for all at all ages. Through this web, the application user can listen to some music to calm their mind and also donate to NGOs for helping people with mental illness. For every donation, we will also plant a tree to save our planet. The application is very helpful for the environment.
 
 
 ## 🤖 Best Use of NLP with Cohere
@@ -32,7 +32,7 @@ We are using Cohere NLP to detect the user's mood and suggest music accordingly.
 
 - Completing the project was challenging because we had to implement the project by a deadline.
 - It was my first time using Cohere and I had to learn how to use it.
-- It was bit challenging to implement the payment gateway.
+- It was a bit challenging to implement the payment gateway.
 
 ## 🏅 Accomplishments that we're proud of
 
