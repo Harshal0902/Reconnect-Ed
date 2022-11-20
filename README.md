@@ -5,13 +5,16 @@
 ## 💻 What it does
 
 Our web app "APP NAME" is built with the following features:
-- 
+- Listen to music to calm your mind.
+- For every donation get a chance to plant tree.
+- Donate to NGO for helping people with mental illness.
+- Help people suffering from Mental Health and save planet.
 
 ## ⚙️ How we built it
 
 - Frontend: React Js
-- Backend: Node Js
 - Payment: Razorpay
+- NLP: Cohere
 - Styling: Tailwind CSS
 
 ## 🌱 Best Sustainability Hack sponsored by Avanade
