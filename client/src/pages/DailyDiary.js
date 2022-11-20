@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-// import cohere from 'cohere-ai'
+import {Cohere} from 'cohere-ai'
 
 import Sentiment from 'sentiment';
 const sentiment = new Sentiment();

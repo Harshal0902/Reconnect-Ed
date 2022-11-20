@@ -57,7 +57,7 @@ export default function Donate() {
                 <div className='bg-secondary w-36 h-1'></div>
             </div>
 
-            <div className='grid place-items-center py-10 text-2xl'>Donate to NGO for helping people with mental illness.
+            <div className='grid place-items-center py-10 text-2xl'>Donate to NGO's for helping people with mental illness.
             </div>
 
             <div className='flex flex-wrap flex-col-2 justify-around w-full px-16'>

@@ -11,7 +11,7 @@ export default function Home() {
       <div className='md:grid md:grid-cols-2 items-center'>
         <div className=''>
           <h1 className='text-3xl md:text-6xl'>Who we are</h1>
-          <p className='text-xl md:text-2xl py-4 tracking-wider'>About the web app</p>
+          <p className='text-xl py-4 tracking-wider text-justify'>Around $280 billion were spent on mental health services in 2020, but still many people were unable to get proper care due to lack of funds. Sustainable mental health care works to: Prevent mental illness, develop social capital, and foster mental wellbeing and individual, societal, and community resilience. Encourage the management of mental health by patients, employees, and caregivers. Cut back on needless activity.</p>
 
           <Link to="/music">
             <button className='bg-secondary py-2 px-8 rounded-md text-xl md:text-2xl'>Listen Music</button>
